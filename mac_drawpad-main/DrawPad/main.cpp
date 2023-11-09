@@ -4,5 +4,6 @@
 void DrawMain()
 {
     Clear(kColorBlack);
+    FillCircle(100, 100, 100,kColorRed);
 }
 
